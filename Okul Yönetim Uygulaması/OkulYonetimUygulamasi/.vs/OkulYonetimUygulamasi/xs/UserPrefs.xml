@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{C385A21B-45B5-431B-AA0E-E1541CF461AB}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OkulYonetimUygulamasi/Uygulama.cs">
+    <Files>
+      <File FileName="OkulYonetimUygulamasi/Program.cs" Line="1" Column="1" />
+      <File FileName="OkulYonetimUygulamasi/Uygulama.cs" Line="334" Column="59" />
+      <File FileName="OkulYonetimUygulamasi/Okul.cs" Line="189" Column="1" />
+      <File FileName="OkulYonetimUygulamasi/Ogrenci.cs" Line="1" Column="1" />
+      <File FileName="OkulYonetimUygulamasi/DersNotu.cs" Line="1" Column="1" />
+      <File FileName="OkulYonetimUygulamasi/Adres.cs" Line="16" Column="1" />
+      <File FileName="OkulYonetimUygulamasi/AracGerecler.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OkulYonetimUygulamasi" expanded="True">
+            <Node name="OkulYonetimUygulamasi" expanded="True">
+              <Node name="Uygulama.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OkulYonetimUygulamasi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,48 @@
+C:/Users/tufan/Desktop/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi.exe
+C:/Users/tufan/Desktop/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi.deps.json
+C:/Users/tufan/Desktop/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi.runtimeconfig.json
+C:/Users/tufan/Desktop/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi.runtimeconfig.dev.json
+C:/Users/tufan/Desktop/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi.dll
+C:/Users/tufan/Desktop/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi.pdb
+C:/Users/tufan/Desktop/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.csproj.AssemblyReference.cache
+C:/Users/tufan/Desktop/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/tufan/Desktop/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.AssemblyInfoInputs.cache
+C:/Users/tufan/Desktop/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.AssemblyInfo.cs
+C:/Users/tufan/Desktop/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.csproj.CoreCompileInputs.cache
+C:/Users/tufan/Desktop/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.dll
+C:/Users/tufan/Desktop/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/refint/OkulYonetimUygulamasi.dll
+C:/Users/tufan/Desktop/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.pdb
+C:/Users/tufan/Desktop/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.genruntimeconfig.cache
+C:/Users/tufan/Desktop/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/ref/OkulYonetimUygulamasi.dll
+C:/Users/tufan/OneDrive/Masaüstü/Tufan Güngör/SMA/Görev 5-6/Görev 5-6/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi.exe
+C:/Users/tufan/OneDrive/Masaüstü/Tufan Güngör/SMA/Görev 5-6/Görev 5-6/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi.deps.json
+C:/Users/tufan/OneDrive/Masaüstü/Tufan Güngör/SMA/Görev 5-6/Görev 5-6/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi.runtimeconfig.json
+C:/Users/tufan/OneDrive/Masaüstü/Tufan Güngör/SMA/Görev 5-6/Görev 5-6/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi.runtimeconfig.dev.json
+C:/Users/tufan/OneDrive/Masaüstü/Tufan Güngör/SMA/Görev 5-6/Görev 5-6/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi.dll
+C:/Users/tufan/OneDrive/Masaüstü/Tufan Güngör/SMA/Görev 5-6/Görev 5-6/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi.pdb
+C:/Users/tufan/OneDrive/Masaüstü/Tufan Güngör/SMA/Görev 5-6/Görev 5-6/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.csproj.AssemblyReference.cache
+C:/Users/tufan/OneDrive/Masaüstü/Tufan Güngör/SMA/Görev 5-6/Görev 5-6/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/tufan/OneDrive/Masaüstü/Tufan Güngör/SMA/Görev 5-6/Görev 5-6/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.AssemblyInfoInputs.cache
+C:/Users/tufan/OneDrive/Masaüstü/Tufan Güngör/SMA/Görev 5-6/Görev 5-6/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.AssemblyInfo.cs
+C:/Users/tufan/OneDrive/Masaüstü/Tufan Güngör/SMA/Görev 5-6/Görev 5-6/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.csproj.CoreCompileInputs.cache
+C:/Users/tufan/OneDrive/Masaüstü/Tufan Güngör/SMA/Görev 5-6/Görev 5-6/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.dll
+C:/Users/tufan/OneDrive/Masaüstü/Tufan Güngör/SMA/Görev 5-6/Görev 5-6/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/refint/OkulYonetimUygulamasi.dll
+C:/Users/tufan/OneDrive/Masaüstü/Tufan Güngör/SMA/Görev 5-6/Görev 5-6/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.pdb
+C:/Users/tufan/OneDrive/Masaüstü/Tufan Güngör/SMA/Görev 5-6/Görev 5-6/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.genruntimeconfig.cache
+C:/Users/tufan/OneDrive/Masaüstü/Tufan Güngör/SMA/Görev 5-6/Görev 5-6/Görev-6 [Öğrenci Yönetim]/[Okul Yönetim Uygulaması_WIP]/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/ref/OkulYonetimUygulamasi.dll
+/Users/abk/Desktop/Okul Yönetim Uygulaması/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi
+/Users/abk/Desktop/Okul Yönetim Uygulaması/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi.deps.json
+/Users/abk/Desktop/Okul Yönetim Uygulaması/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi.runtimeconfig.json
+/Users/abk/Desktop/Okul Yönetim Uygulaması/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi.runtimeconfig.dev.json
+/Users/abk/Desktop/Okul Yönetim Uygulaması/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi.dll
+/Users/abk/Desktop/Okul Yönetim Uygulaması/OkulYonetimUygulamasi/OkulYonetimUygulamasi/bin/Debug/net5.0/OkulYonetimUygulamasi.pdb
+/Users/abk/Desktop/Okul Yönetim Uygulaması/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.csproj.AssemblyReference.cache
+/Users/abk/Desktop/Okul Yönetim Uygulaması/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abk/Desktop/Okul Yönetim Uygulaması/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.AssemblyInfoInputs.cache
+/Users/abk/Desktop/Okul Yönetim Uygulaması/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.AssemblyInfo.cs
+/Users/abk/Desktop/Okul Yönetim Uygulaması/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.csproj.CoreCompileInputs.cache
+/Users/abk/Desktop/Okul Yönetim Uygulaması/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.dll
+/Users/abk/Desktop/Okul Yönetim Uygulaması/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/refint/OkulYonetimUygulamasi.dll
+/Users/abk/Desktop/Okul Yönetim Uygulaması/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.pdb
+/Users/abk/Desktop/Okul Yönetim Uygulaması/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/OkulYonetimUygulamasi.genruntimeconfig.cache
+/Users/abk/Desktop/Okul Yönetim Uygulaması/OkulYonetimUygulamasi/OkulYonetimUygulamasi/obj/Debug/net5.0/ref/OkulYonetimUygulamasi.dll
